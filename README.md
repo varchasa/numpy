@@ -1,4 +1,4 @@
-# numpy
+# Numpy
 ## Numpy, a python library used mainly for numerical computations.
 
 #### This repository includes several numpy functions, all well explained with their comments associated with it. 
