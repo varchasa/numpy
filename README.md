@@ -10,3 +10,17 @@
 - file handling
 - statistics rules
 - stats with numpy
+
+## Medium Blog -  [Creating High Dimensional NumPy array](https://bit.ly/3dHaf91)
+
+## YouTube Video - [Watch out video on my channel for more clarifications](https://www.youtube.com/watch?v=Uxa_Nt1SAWU)
+
+
+
+### Follow me - 
+### [Linkedin](https://www.linkedin.com/in/varchasaaggarwal06/) for more information 🙌, <br>
+### [Instagram](https://www.instagram.com/varchasa_codes/) for short python scripts ❤<br>
+### and, <br>
+### Subscribe my [YouTube](https://www.youtube.com/channel/UC5PbY-7GMuFvG7ifMwbqe2A) channel to never miss an update.❤
+
+## To Know more about me - visit my portfolio @ [Varchasa Aggarwal](https://varchasaaggarwal.herokuapp.com/)
