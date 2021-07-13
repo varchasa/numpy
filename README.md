@@ -11,10 +11,9 @@
 - statistics rules
 - stats with numpy
 
-## Medium Blog -  [Creating High Dimensional NumPy array](https://bit.ly/3dHaf91)
+## Medium Blog -  [Getting started with numpy](https://bit.ly/3dHaf91)
 
 ## YouTube Video - [Watch out video on my channel for more clarifications](https://www.youtube.com/watch?v=Uxa_Nt1SAWU)
-
 
 
 ### Follow me - 
